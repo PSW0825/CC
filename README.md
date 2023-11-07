@@ -67,3 +67,18 @@ void loop() {
 위의 코드는 DHT22 온도 및 습도 센서와 조도 센서를 사용하여 온도, 습도 및 조도 값을 읽고 시리얼 포트를 통해 출력합니다.
 
 스마트폰 앱은 USB 또는 무선 통신을 통해 아두이노로부터 데이터를 읽고 화면에 표시해야 합니다. 이 부분은 스마트폰 앱 개발 및 데이터 표시를 위한 프레임워크 및 라이브러리에 따라 다를 수 있습니다. 스마트폰 앱을 개발하는 것은 일반적으로 Android Studio (Android) 또는 Xcode (iOS)를 사용하여 수행됩니다.
+
+![image](https://github.com/PSW0825/CC/assets/127822725/2d1c8967-8ff4-47fc-b483-693fc7be1b08)
+
+![image](https://github.com/PSW0825/CC/assets/127822725/184464a1-2b8d-44b5-8caf-c49db0f9107a)
+
+![image](https://github.com/PSW0825/CC/assets/127822725/dbaeb3fb-51dd-4d92-b52d-1d977e29928b)
+
+![image](https://github.com/PSW0825/CC/assets/127822725/17034ab2-9ec0-43f8-8119-db6141014f5b)
+
+
+
+
+
+
+
